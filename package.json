@@ -1,0 +1,26 @@
+{
+  "name": "beanies",
+  "version": "1.0.0",
+  "description": "LOREM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scalework-Alchemist/beanies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scalework-Alchemist/beanies/issues"
+  },
+  "homepage": "https://github.com/Scalework-Alchemist/beanies#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.6"
+  }
+}
