@@ -1,4 +1,2 @@
-LOREM
-hello this is the readme file
-nothing exciting yet
-but soon my code will be merged 
+hello i fucked up real bad and destroyed the file
+look im the melicious code :( 
