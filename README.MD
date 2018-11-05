@@ -1,4 +1,4 @@
 LOREM
-hello this is the readme file
-nothing exciting yet
-but soon my code will be merged 
+this is bens copy
+which is different from mikes
+
